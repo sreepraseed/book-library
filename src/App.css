@@ -1,0 +1,37 @@
+/* Add these styles to your existing styles or create a new CSS file */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f8f8;
+    background-image: url('https://example.com/your-background-image.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .book-library-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  h1 {
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  form {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Rest of your styles... */
+  
