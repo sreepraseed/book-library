@@ -6,6 +6,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
   }
   
   .book-library-container {
@@ -13,15 +14,16 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background-color: #f9f8f8; /* Background color for the main container */
+    background-color: #4d4b4b; /* Background color for the main container */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin: 20px; /* Add margin for better spacing */
+    background-image: url('https://img.freepik.com/free-vector/book-shelves-dtcorative-colorful-icon-poster_1284-6714.jpg?size=626&ext=jpg');
   }
   
   h1 {
-    color: #333;
+    color: #d2d0d0;
     text-align: center;
     margin-bottom: 20px;
   }
@@ -29,7 +31,7 @@ body {
   form {
     max-width: 400px;
     margin: 0 auto;
-    background-color: #fff;
+    background-color: #d4d1d1;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
